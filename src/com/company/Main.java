@@ -9,7 +9,7 @@ public class Main {
     public static int [ ] heroesHealth = {250,250,250};
     public static int [ ] heroesDamage = {20,20,20};
     public static int  medicHealth = 230;
-    public static int medicHeal = 50;
+    public static int medicHeal = 30;
     public static String[] heroesAttackType = {"Physical","Magical","Mental"};
 
 
